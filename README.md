@@ -51,7 +51,7 @@ Here’s a snapshot of some of my GitHub projects:
 ### 💬 Let's Connect!  
 I'm always excited to collaborate on impactful AI and software projects or discuss innovative ideas.  
 
-- **💼 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/angusmaiden)
+- **💼 LinkedIn**: [Angus Maiden](https://www.linkedin.com/in/angusmaiden)
 
 ---
 
