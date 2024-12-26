@@ -1,7 +1,3 @@
-Here's the full draft of your `README.md` file:  
-
----
-
 # 👋 Welcome to My GitHub  
 
 Hi, I'm Angus Maiden – a **Technical Lead, Data Scientist and Software Engineer** with a Master's degree in **Applied Artificial Intelligence** and a track record of leading innovative projects in AI, data science, and full-stack development. 🚀  
@@ -11,8 +7,8 @@ Hi, I'm Angus Maiden – a **Technical Lead, Data Scientist and Software Enginee
 ### 🌟 About Me  
 - **💼 Professional Role**: Data Scientist Technical Lead  
 - **🌐 Skills**:  
-  - **Programming**: Python, Rust, PHP, JavaScript (Vue.js), SQL  
-  - **Frameworks & Tools**: Laravel, TensorFlow, Keras, Scikit-learn, Docker, Kubernetes  
+  - **Programming**: Python, Rust, PHP, JavaScript, SQL  
+  - **Frameworks & Tools**: Vue.js, Laravel, Pandas, PyTorch, TensorFlow, Keras, Scikit-learn, Docker
   - **Expertise**:  
     - Machine Learning Operations (MLOps)  
     - Data Engineering & ETL Pipelines  
@@ -25,7 +21,11 @@ Hi, I'm Angus Maiden – a **Technical Lead, Data Scientist and Software Enginee
   - **Student Excellence Award for Highest Weighted Average Mark** – Acknowledged for achieving the highest overall academic performance.  
   - **Student Excellence Award for Best Research Thesis or Paper** – Honored for producing an exceptional research thesis/paper.  
 
-- **📜 Education**: Master's in Applied Artificial Intelligence (Professional).  
+- **📜 Education**:
+  - Master of Applied Artificial Intelligence (Professional)
+  - Postgraduate Certificate of Data Analytics
+  - Bachelor of Business (Accounting)
+  - Advanced Diploma in Music Industry (Technical PRoduction)
 
 ---
 
@@ -44,17 +44,9 @@ Here’s a snapshot of some of my GitHub projects:
 | [**complex-FER**](https://github.com/AngusMaiden/complex-FER) | Advanced Facial Expression Recognition using state-of-the-art ML models. This project explores the intersection of computer vision and affective computing. | Python, TensorFlow, Keras, Computer Vision, Machine Learning |  
 | [**rl-gym-maze**](https://github.com/AngusMaiden/rl-gym-maze) | A project exploring reinforcement learning algorithms for solving maze navigation challenges using OpenAI Gym. | Python, Reinforcement Learning, OpenAI Gym |  
 
-*(Add more repositories to showcase your breadth of experience.)*  
-
 ---
 
 ### 💬 Let's Connect!  
 I'm always excited to collaborate on impactful AI and software projects or discuss innovative ideas.  
 
 - **💼 LinkedIn**: [Angus Maiden](https://www.linkedin.com/in/angusmaiden)
-
----
-
-✨ **"Empowering businesses with data-driven solutions and elegant software."**  
-
----
