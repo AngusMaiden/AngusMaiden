@@ -1,19 +1,24 @@
 # 👋 Welcome to My GitHub  
 
-Hi, I'm Angus Maiden – a **Technical Lead, Data Scientist and Software Engineer** with a Master's degree in **Applied Artificial Intelligence** and a track record of leading innovative projects in AI, data science, and full-stack development. 🚀  
+Hi, I'm Angus Maiden – an **AI Engineer** with a Master's degree in **Applied Artificial Intelligence** and a track record of leading and developing innovative projects in AI, data science, and full-stack development. 🚀  
 
 ---
 
 ### 🌟 About Me  
-- **💼 Professional Role**: Data Scientist Technical Lead  
+- **💼 Professional Role**: AI Engineer 
 - **🌐 Skills**:  
   - **Programming**: Python, Rust, PHP, JavaScript, SQL  
-  - **Frameworks & Tools**: Vue.js, Laravel, Pandas, PyTorch, TensorFlow, Keras, Scikit-learn, Docker
+  - **Frameworks & Tools**: Vue.js, Laravel, Pandas, PyTorch, TensorFlow, Keras, Scikit-Learn, Docker, Kubernetes
   - **Expertise**:  
-    - Machine Learning Operations (MLOps)  
+    - Machine Learning Engineering
+    - Data Science and Analytics
+    - Machine Learning Operations (MLOps)
+    - AI/ML Model Development, Optimisation and Deployment
+    - LLMs & Gen AI
+    - AI Research
     - Data Engineering & ETL Pipelines  
-    - Full-Stack Software Development  
-    - AI Model Deployment  
+    - Full-Stack Software Development
+    
 
 - **🏆 Awards & Honors**:  
   - **Deakin Scholarship for Excellence** – Awarded for outstanding academic performance and excellence in studies.  
